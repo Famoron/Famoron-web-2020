@@ -16,16 +16,17 @@ body {
     }
   }
 
-.design-1 {
+.image-size {
     width: 100%;
 }
+
 
 h1 {
     font-family: 'Yeseva One', cursive;
 }
 
 .h1-size {
-    font-size: 100px;
+    font-size: 80px;
 }
 
 p {
@@ -40,4 +41,30 @@ p {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
     font-size: 20px;
+}
+
+.p-head {
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+}
+
+.button {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.button {border-radius: 100px;}
+
+.button-2 {
+    background-color: #193c85;
+}
+
+.dot-vertical {
+    margin-left: 100%;
+}
+
+.dot-horizontal {
+    margin-top: 10%;
+    margin-right: 100%;
 }
